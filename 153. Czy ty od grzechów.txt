@@ -1,0 +1,61 @@
+﻿153. Czy ty od grzechów
+
+[V1]
+ Czy ty od grzechów 
+ wolnym być tu chcesz? 
+ Spójrz na Baranka, spójrz! 
+ On i za ciebie
+ niósł ten straszny krzyż, 
+ spójrz na Baranka wzwyż! 
+
+[C1]
+ Spójrz w Barankową twarz,
+ spójrz w Barankową twarz!
+ Jak On umiera za ciebie!
+ O, spójrz! 
+ W toń tej miłości patrz!
+
+[V2]
+ Gdyś utrapiony,
+ smutny, w bólu łkasz?
+ Spójrz na Baranka, spójrz!
+ On cię podniesie,
+ twą rozjaśni twarz,
+ spójrz na Baranka wzwyż!
+
+[C2]
+ Spójrz w Barankową twarz,
+ spójrz w Barankową twarz!
+ Jak On umiera za ciebie!
+ O, spójrz! 
+ W toń tej miłości patrz!
+
+[V3]
+ W chwili pokusy,
+ ciężkiej próby twej,
+ spójrz na Baranka, spójrz!
+ W Nim jest zwycięstwo
+ z wszelkiej mocy złej;
+ spójrz na Baranka wzwyż! 
+
+[C3]
+ Spójrz w Barankową twarz,
+ spójrz w Barankową twarz!
+ Jak On umiera za ciebie!
+ O, spójrz! 
+ W toń tej miłości patrz!
+
+[V4]
+ Słysz, droga duszo,
+ Bóg ci mówi dziś:
+ Spójrz na Baranka wzwyż!
+ Tyś wolna z grzechów,
+ wiarą Doń się wznieś,
+ w toń tej miłości spójrz! 
+
+[C4]
+ Spójrz w Barankową twarz,
+ spójrz w Barankową twarz!
+ Jak On umiera za ciebie!
+ O, spójrz! 
+ W toń tej miłości patrz!

@@ -1,0 +1,40 @@
+﻿287. Nim wyszedłeś dzisiaj z domu
+
+[V1]
+ Nim wyszedłeś dzisiaj z domu 
+ czyś pomodlił się? 
+ Czyś poprosił Zbawcę twego, 
+ by cię chronić chciał od złego 
+ dzisiaj cały dzień.
+
+[C]
+ Jakaż siła jest w modlitwie, 
+ ona zmienia noc na dzień! 
+ Gdy więc słabniesz w życia bitwie, 
+ klęknij, pomódl się !
+
+[V2]
+ Gdy twe serce złość napełnia, 
+ czy ty modlisz się? 
+ Czy o łaskę prosisz z nieba, 
+ byś przebaczyć mógł, gdy trzeba, 
+ gdy ktoś skrzywdził cię?
+
+[C]
+ Jakaż siła jest w modlitwie, 
+ ona zmienia noc na dzień! 
+ Gdy więc słabniesz w życia bitwie, 
+ klęknij, pomódl się !
+
+[V3]
+ W doświadczenia chwilę ciężką, 
+ czy modliłeś się? 
+ Kiedy w smutku dusza płacze, 
+ czyż do nieba wzniósł swe oczy, 
+ skąd Bóg balsam śle.
+
+[C]
+ Jakaż siła jest w modlitwie, 
+ ona zmienia noc na dzień! 
+ Gdy więc słabniesz w życia bitwie, 
+ klęknij, pomódl się !

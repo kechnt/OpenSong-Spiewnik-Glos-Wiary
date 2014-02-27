@@ -1,0 +1,49 @@
+﻿352. Co siałeś na polu
+
+[V1]
+ Co siałeś na polu swym wiosną? 
+ Czy kwiaty, co cieszą nasz wzrok? 
+ Patrz pszczoły już rojem brzęczącym
+ obsiadły twe pole co krok.
+
+[C1]
+ Siej dobre nasiona tu wciąż,
+ byś zboże złociste mógł żąć.
+ Dzień żniwa wielkiego nadchodzi! 
+ Coś siał,teraz będziesz tu żąć!
+
+[V2]
+ Co siałeś na polu swym wiosną
+ Czy ziarno pszeniczne na chleb? 
+ Spójrz zboże tak ślicznie wyrosło, 
+ Bóg rosił,wzrost dawał strzegł.
+
+[C2]
+ Siej dobre nasiona tu wciąż,
+ byś zboże złociste mógł żąć.
+ Dzień żniwa wielkiego nadchodzi! 
+ Coś siał,teraz będziesz tu żąć!
+
+[V3]
+ A obok, o straszne to pole! 
+ Tam wróg posiał brudy i zło. 
+ Patrz, chwasty porosły twą rolę, 
+ kolczaste i ostre jak szkło
+
+[C3]
+ Siej dobre nasiona tu wciąż,
+ byś zboże złociste mógł żąć.
+ Dzień żniwa wielkiego nadchodzi! 
+ Coś siał, teraz będziesz tu żąć!
+
+[V4]
+ Co siałeś na polu swym wiosną?
+ Nienawiść, czy miłość, czy złość? 
+ Twój posiew już wschodzi, dojrzewa, 
+ w wieczności swój plon będziesz żąć.
+
+[C4]
+ Siej dobre nasiona tu wciąż,
+ byś zboże złociste mógł żąć.
+ Dzień żniwa wielkiego nadchodzi! 
+ Coś siał,teraz będziesz tu żąć!

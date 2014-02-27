@@ -1,0 +1,32 @@
+﻿200. Panie, chcę być dzieckiem Twoim
+[V1]
+ Panie, chcę być dzieckiem Twoim w sercu mym, w sercu mym. 
+ Panie, chcę być dzieckiem Twoim w sercu mym. 
+ 
+[C1]
+ W sercu mym, w sercu mym, 
+ Panie chcę być dzieckiem Twoim w sercu mym!
+
+[V2]
+ Panie, pragnę więcej kochać w sercu mym, w sercu mym! 
+ Panie, pragnę więcej kochać w sercu mym.
+
+[C2]
+ W sercu mym, w sercu mym
+ Panie pragnę więcej kochać w sercu mym!
+
+[V3]
+ Pragnę więcej się uświęcać w sercu mym, w sercu mym. 
+ Pragnę więcej się uświęcać w sercu mym.
+
+[C3]
+ W sercu mym, w sercu mym
+ Panie pragnę więcej się uświęcać w sercu mym!
+
+[V4]
+ Panie, pragnę być jak Jezus w sercu mym, w sercu mym. 
+ Panie, pragnę być jak Jezus w sercu mym.
+
+[C4]
+ W sercu mym, w sercu mym
+ Panie pragnę być jak Jezus w sercu mym!

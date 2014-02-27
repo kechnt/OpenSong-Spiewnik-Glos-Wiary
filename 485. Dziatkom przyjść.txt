@@ -1,0 +1,41 @@
+﻿485. Dziatkom przyjść
+
+[V1]
+ Dziatkom przyjść dozwólcie do Mnie!
+ Woła do nas Boży Syn, niech w
+ radości idą skromnie,
+ Ja im ten nagrodzę czyn.
+
+[C]
+ (:Pójdźcie dziatki:), 
+ /pójdźcie wszystkie do Mnie wraz/x2
+
+[V2]
+ Idę, Zbawco mój, do Ciebie,
+ bo przy Tobie szczęścia raj, 
+ gdym przyjęty jest przez Ciebie,
+ w twych objęciach spocząć daj.
+
+[C]
+ (:Pójdźcie dziatki:), 
+ /pójdźcie wszystkie do Mnie wraz/x2
+
+[V3]
+ Jakże błogo na Twym łonie, 
+ wdzięczne zaś spojrzenie Twe, 
+ w jakim słodkim mówisz tonie: 
+ Dziecię, daj mi serce swe! 
+
+[C]
+ (:Pójdźcie dziatki:), 
+ /pójdźcie wszystkie do Mnie wraz/x2
+
+[V4]
+ Pragnę dać Ci serce czyste,
+ uczyń je własnością Swą, 
+ Twym pozostać, Jezu Chryste,
+ jest jedyną chęcią mą.
+
+[C]
+ (:Pójdźcie dziatki:), 
+ /pójdźcie wszystkie do Mnie wraz/x2

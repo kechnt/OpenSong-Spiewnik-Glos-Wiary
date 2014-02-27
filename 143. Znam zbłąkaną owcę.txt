@@ -1,0 +1,49 @@
+﻿143. Znam zbłąkaną owcę
+
+[V1]
+ Znam zbłąkaną owcę, 
+ znam, z prostej drogi zwiódł ją kłam, 
+ od owczarni w dal ją wiódł, 
+ na bezdroża w głód i chłód. 
+
+[C]
+ Ja tą owcą byłem przyznam się, 
+ ja tą owcą byłem przyznam się. 
+ Lecz mój Zbawca, lecz mój Zbawca, 
+ lecz mój Zbawca szukał mię.
+
+[V2]
+ Żal zbłąkanej owcy, żal, 
+ w obcych stron pobiegła dal, 
+ skroś cierń ostry szła i głóg, 
+ krwią znaczyła ślad swych nóg.
+
+[C]
+ Ja tą owcą byłem przyznam się, 
+ ja tą owcą byłem przyznam się. 
+ Lecz mój Zbawca, lecz mój Zbawca, 
+ lecz mój Zbawca szukał mię.
+
+[V3]
+ Znam zbłąkaną owcę, znam, 
+ przyszedł za nią Pasterz sam, 
+ wyrwał ją z przygody złej, 
+ do owczarni zaniósł Swej.
+
+[C]
+ Ja tą owcą byłem przyznam się, 
+ ja tą owcą byłem przyznam się. 
+ Lecz mój Zbawca, lecz mój Zbawca, 
+ lecz mój Zbawca szukał mię.
+
+[V4]
+ Tak, to jam jest owcą tą, 
+ co na drogę zeszła złą, 
+ miłość mi objawił Bóg, 
+ już nie zejdę z Jego dróg. 
+
+[V4REF]
+ Tak, tak, tak w Nim szczęścia mego zdrój, 
+ tak, tak, tak, w Nim szczęścia mego zdrój, 
+ tak, mój Zbawco, tak mój Zbawco, 
+ tak mój Zbawco, jam jest Twój!

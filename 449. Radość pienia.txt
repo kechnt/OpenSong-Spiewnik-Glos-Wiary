@@ -1,0 +1,45 @@
+﻿449. Radość pienia
+
+[V1]
+ Radość pienia, dziękczynienia!
+ Wszędzie wesołości dział! 
+ Biją dzwony, świętych tony głoszą: 
+ Pan nasz zmartwychwstał.
+
+[C]
+ Pięknie, głośno rozbrzmiewajcie dzwony! 
+ Dzieci Boże, pieśni waszych tony niech
+ brzmią i wznoszą śpiew do niebios stref!
+
+[V2]
+ Radość, pienia, dziękczynienia
+ jakże tam w Syjonie brzmią! 
+ Wróg się kryje! Zmarły żyje!
+ Mocą Bożą groby drżą!
+
+[C]
+ Pięknie, głośno rozbrzmiewajcie dzwony! 
+ Dzieci Boże, pieśni waszych tony niech
+ brzmią i wznoszą śpiew do niebios stref!
+
+[V3]
+ Tchnienie wiosny! Czas radosny!
+ I cudowny Ducha wiew! 
+ Jezus żyje! Serce bije,
+ bo z Nim nowy życia siew! 
+
+[C]
+ Pięknie, głośno rozbrzmiewajcie dzwony! 
+ Dzieci Boże, pieśni waszych tony niech
+ brzmią i wznoszą śpiew do niebios stref!
+
+[V4]
+ Niebios dzwony w wyższe
+ strony powołują z ziemi nas. 
+ W dom ojcowski Poseł Boski
+ Jezus woła: „Chodźcie wraz!" 
+
+[C]
+ Pięknie, głośno rozbrzmiewajcie dzwony! 
+ Dzieci Boże, pieśni waszych tony niech
+ brzmią i wznoszą śpiew do niebios stref!

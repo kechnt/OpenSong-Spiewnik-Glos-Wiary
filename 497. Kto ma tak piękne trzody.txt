@@ -1,0 +1,61 @@
+﻿497. Kto ma tak piękne trzody
+
+[V1]
+ Kto ma tak piękne trzody? 
+ To ma nasz dobry Pan, 
+ tysiące tu na ziemi, 
+ tysiące w niebie tam.
+
+[C]
+ Dobry Pasterzu mój, 
+ dobry Pasterzu mój, 
+ bądź mi łaskaw, bądź mi
+ łaskaw, dobry Pasterzu mój.
+
+[V2]
+ Chcesz trzodę tę zobaczyć
+ i w niej owieczką być? 
+ Do szkółki śpiesz niedzielnej,
+ nie zwlekaj, zaraz idź. 
+
+[C]
+ Dobry Pasterzu mój, 
+ dobry Pasterzu mój, 
+ bądź mi łaskaw, bądź mi
+ łaskaw, dobry Pasterzu mój.
+
+[V3]
+ Na Bożych łanach pasie
+ On małe z chęcią tam, 
+ a słabe Pasterz niesie
+ na Swoich barkach sam. 
+
+[C]
+ Dobry Pasterzu mój, 
+ dobry Pasterzu mój, 
+ bądź mi łaskaw, bądź mi
+ łaskaw, dobry Pasterzu mój.
+
+[V4]
+ I ciebie On też przyjmie
+ pomimo grzechów twych, 
+ o, śpiesz do trzody Jego,
+ zaniechaj chęci złych!
+
+[C]
+ Dobry Pasterzu mój, 
+ dobry Pasterzu mój, 
+ bądź mi łaskaw, bądź mi
+ łaskaw, dobry Pasterzu mój.
+
+[V5]
+ A potem możesz z nami 
+ rączęta swoje spleść, 
+ i z serca radosnego
+ oddawać Panu cześć.
+
+[C]
+ Dobry Pasterzu mój, 
+ dobry Pasterzu mój, 
+ bądź mi łaskaw, bądź mi
+ łaskaw, dobry Pasterzu mój.

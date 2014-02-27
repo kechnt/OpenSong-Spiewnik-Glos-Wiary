@@ -1,0 +1,34 @@
+﻿501. Wielki dzień nadchodzi
+
+[V1]
+ Wielki dzień nadchodzi, ten dzień nadchodzi, 
+ Wielki dzień nadchodzi w chwale swej.
+ Gdy na prawo, na lewo Bóg podzieli cały lud.
+ Czyś gotowy na ten wielki dzień?
+
+[C]
+ Czyś gotowy? Czyś gotowy? 
+ Czyś gotowy przyjść na sądny dzień?
+ Czyś gotowy! Czyś gotowy przyjść na sądny dzień?
+
+[V2]
+ Jasny dzień nadchodzi, ten dzień nadchodzi.
+ Jasny dzień nadchodzi w chwale swej.
+ Lecz ta jasność jest dla tych, w czyich sercach
+ mieszka Bóg. Czyś gotowy na ten jasny dzień?
+
+[C]
+ Czyś gotowy? Czyś gotowy? 
+ Czyś gotowy przyjść na sądny dzień?
+ Czyś gotowy! Czyś gotowy przyjść na sądny dzień?
+
+[V3]
+ Straszny dzień nadchodzi, ten dzień nadchodzi, 
+ Straszny dzień nadchodzi w chwale swej.
+ Kiedy grzesznik usłyszy wyrok swój: „Ja nie znam Cię” 
+ Czyś gotowy na ten straszny dzień?
+
+[C]
+ Czyś gotowy? Czyś gotowy? 
+ Czyś gotowy przyjść na sądny dzień?
+ Czyś gotowy! Czyś gotowy przyjść na sądny dzień?

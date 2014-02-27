@@ -1,0 +1,11 @@
+﻿513. Każdy może dziś
+
+[V1]
+ (:Każdy może dziś do Jezusa przyjść:)
+ Każdy może dziś do Jezusa przyjść, 
+ On nie odrzuci cię.
+
+[C]
+ (:Jezus, Jezus, Jezus, Jezus leczy chore serca:)
+ Jezus, Jezus, Jezus, Jezus leczy chore serca, 
+ On pomoże ci!

@@ -1,0 +1,28 @@
+﻿507. Na zew Zbawcy ja się ozwę
+
+[V1]
+ (:Na zew Zbawcy ja się ozwę:) 
+ na zew Zbawcy ja się ozwę, 
+ ja się ozwę, gdy zawoła mnie.
+ (:Będę pilnie słuchać:), 
+ aż usłyszę także imię me. 
+ (:Będę pilnie słuchać:), 
+ aż usłyszę także imię me.
+
+[V2]
+ (:Z wdzięcznym sercem ja się ozwę:) 
+ Z wdzięcznym sercem ja się ozwę, 
+ gdy usłyszę, że On woła mnie. 
+ (:Będę pilnie słuchać:), 
+ aż usłyszę także imię me. 
+ (:Będę pilnie słuchać:), 
+ aż usłyszę także imię me.
+
+[V3]
+ (:Na zew Zbawcy czy odpowiesz?:)
+ Na zew Zbawcy czy odpowiesz? 
+ Czy odpowiesz, gdy zawoła cię? 
+ (:Musisz pilnie słuchać:) 
+ aż usłyszysz także imię twe. 
+ (:Musisz pilnie słuchać:) 
+ aż usłyszysz także imię twe*.
